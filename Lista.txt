@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -13,7 +13,7 @@ Díaz Noble, Sergio Daniel (161225) -> Usuario Github:
 Dufourt Fierro, Paula (178419) -> Usuario Github: Paudf
 Dutra da Silveira, Micaela (185184) -> Usuario Github: micadutra
 Farinasso Ortiz, Fiorella Natalie (157789) -> Usuario Github:
-Fontao Pagola, José Gastón (222229) -> Usuario Github:
+Fontao Pagola, José Gastón (222229) -> Usuario Github: gfontao
 Gretter Albarracín, Enrique Alberto (180134) -> Usuario Github:
 Guinea Sanchez, Allyson Stefania (187340) -> Usuario Github: allyguinea
 Horne Gorga, Alejandro Daniel (171463) -> Usuario Github:
