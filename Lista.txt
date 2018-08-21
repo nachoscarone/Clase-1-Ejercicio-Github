@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -21,7 +21,7 @@ Mallo Aramburu, Guillermo (212915) ->
 Mallo Bozzola, Diego (223996) ->
 Marquez Vega, Elina Stephanie (197165) ->
 Ruchel Evers, Juliette Maria (203942) ->
-Scarone Torrano, Ignacio Agustín (193770) ->
+Scarone Torrano, Ignacio Agustín (193770) -> Ignacio Scarone
 Symonds Cooper, Carolyn Anne (200646) -> 
 
 
